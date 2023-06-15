@@ -4,6 +4,6 @@
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorj-23&show_icons=true&theme=tokyonight)
 
-### Technologies I use 💻
+### Technologies I use or test 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorj-23&layout=compact)](https://github.com/victorj-23/github-readme-stats)
