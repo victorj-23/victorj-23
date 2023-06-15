@@ -7,3 +7,5 @@
 ### Technologies I use 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorj-23&layout=compact)](https://github.com/victorj-23/github-readme-stats)
+
+![Snake animation](https://github.com/victorj-23/victorj-23/blob/output/github-contribution-grid-snake.svg)
