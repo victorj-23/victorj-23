@@ -5,7 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victorj-23&bg_color=191e28&color=FFFAFA&line=3a9bdc&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorj-23&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorj-23&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=3232CD&text_color=c9d1d9&bg_color=0d1117" alt="Victor Marinho github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorj-23&layout=compact&hide_border=true&title_color=6495ED&text_color=FFFAFA&bg_color=0d1117" />
 </div>
 
