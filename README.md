@@ -1,5 +1,5 @@
 ```python
-import EngenheiroDeDAdos from "victorj-23"
+import EngenheiroDeDados from "victorj-23"
 
 class SobreMim extends Desenvolvedor {
   nome = "Victor Marinho"
